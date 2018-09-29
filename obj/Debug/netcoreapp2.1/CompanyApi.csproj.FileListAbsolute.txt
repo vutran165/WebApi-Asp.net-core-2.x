@@ -1,0 +1,14 @@
+C:\Users\JACKYTRAN\Desktop\CompanyApi\bin\Debug\netcoreapp2.1\CompanyApi.deps.json
+C:\Users\JACKYTRAN\Desktop\CompanyApi\bin\Debug\netcoreapp2.1\CompanyApi.runtimeconfig.json
+C:\Users\JACKYTRAN\Desktop\CompanyApi\bin\Debug\netcoreapp2.1\CompanyApi.runtimeconfig.dev.json
+C:\Users\JACKYTRAN\Desktop\CompanyApi\bin\Debug\netcoreapp2.1\CompanyApi.dll
+C:\Users\JACKYTRAN\Desktop\CompanyApi\bin\Debug\netcoreapp2.1\CompanyApi.pdb
+C:\Users\JACKYTRAN\Desktop\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.csprojAssemblyReference.cache
+C:\Users\JACKYTRAN\Desktop\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.csproj.CoreCompileInputs.cache
+C:\Users\JACKYTRAN\Desktop\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.RazorAssemblyInfo.cache
+C:\Users\JACKYTRAN\Desktop\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.RazorAssemblyInfo.cs
+C:\Users\JACKYTRAN\Desktop\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.AssemblyInfoInputs.cache
+C:\Users\JACKYTRAN\Desktop\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.AssemblyInfo.cs
+C:\Users\JACKYTRAN\Desktop\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.RazorTargetAssemblyInfo.cache
+C:\Users\JACKYTRAN\Desktop\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.dll
+C:\Users\JACKYTRAN\Desktop\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.pdb
